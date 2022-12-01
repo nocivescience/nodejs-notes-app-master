@@ -1,0 +1,15 @@
+*{
+  box-sizing: border-box;
+  background-size: cover;
+}
+body {
+  background: #121212;
+}
+
+.logo {
+  width: 30%;
+}
+
+.bg-black {
+  background: #090909;
+}
